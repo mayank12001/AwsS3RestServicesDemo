@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.amazonaws:jmespath-java:1.11.192">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.192/fd28c0814734dcb1be104a671a7e3779a0552f71/jmespath-java-1.11.192.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.amazonaws/jmespath-java/1.11.192/514e9e1805538b510c8caf2f44290ff20007a88a/jmespath-java-1.11.192-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
